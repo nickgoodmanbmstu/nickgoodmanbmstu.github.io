@@ -11,7 +11,7 @@
    //.col0 { background: green; width: 10%; height: 100%; float: left;}
    .col1 { background: #C7E3E4; width: 20%; height: 80%; //margin-left: 12.5%
    }
-   .col2 { background: #E0D2C7; width: 60%; height: 80% }
+   .col2 { background: #E0D2C7; width: 80%; height: 80% }
    .col3 { background: #ECD5DE; width: 20%; height: 80%;}
    //.col4 { background: green; width: 10%; float: left}
   </style>
@@ -30,8 +30,7 @@
  </div>
    <div class="col2">Здравствуйте! Этот сайт посвящён научной фантастике. Хотите познакомиться с шедеврами классики жанра? Любите иллюстрации к книгам?
    Или, может, хотите выставить на всеобщее обозрение своё творение? Тогда вы попали по адресу!</div>
-   <div class="col3">Колонка 3</div>
-  </div>
+
   <div class="footer"; align="center">&copy; IT-kompanio DORM5.,ltd.</div>
  </body>
 </html>
